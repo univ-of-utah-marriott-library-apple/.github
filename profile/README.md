@@ -2,7 +2,7 @@
 
 ### Notable Repositories
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uurazzle)](https://github.com/univ-of-utah-marriott-library-apple/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uurazzle&hide=contribs,prs)](https://github.com/univ-of-utah-marriott-library-apple/github-readme-stats)
 
 ### Links & Resources
 
