@@ -1,3 +1,4 @@
+<img src="marriott_lib_building.png">
 
 ## Latest Links & Resources
 
