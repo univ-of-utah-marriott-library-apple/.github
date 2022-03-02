@@ -1,6 +1,11 @@
 <img src="marriott_lib_building.png">
 
-## Latest Links & Resources
+### Notable Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uurazzle&repo=python-jamf)](https://github.com/univ-of-utah-marriott-library-apple/jctl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uurazzle&repo=jctl)](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)
+
+### Links & Resources
 
 [JNUC 2021 - Turn 1000 clicks into 1 with python-jamf and jctl (YouTube)](https://www.youtube.com/watch?v=2YLriNwyP3s)
 
