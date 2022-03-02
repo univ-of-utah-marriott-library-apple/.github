@@ -13,6 +13,9 @@
 
 This session will introduce `python-jamf` and `jctl`, give some usage examples, show how it works internally, and show how easy it is to add your own functionality to perform and automate any repetitive and complex task you want. 
 
+[MacAdmins Slack Channel](https://macadmins.slack.com/archives/C01C8KVV2UD)
+Join the MacAdmins slack team `#jctl` channel for help & support with `python-jamf` and `jctl.
+
 [Universtify MacAdmins Blog](https://apple.lib.utah.edu)
 
 The University of Utah, MacAdmins Meeting is held monthly virtually on the 3rd Wednesday of each month at 11 AM Mountain Time. Presentations cover Apple technology and integration in a heterogeneous university enterprise environment.
