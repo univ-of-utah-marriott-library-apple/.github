@@ -2,8 +2,8 @@
 
 ### Notable Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=python-jamf&show_icons=true&theme=dark)](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=jctl&show_icons=true&theme=dark)](https://github.com/univ-of-utah-marriott-library-apple/jctl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=python-jamf&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=jctl&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/jctl)
 
 ### Links & Resources
 
