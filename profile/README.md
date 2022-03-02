@@ -9,12 +9,12 @@
 
 #### Links & Resources
 
-[JNUC 2021 - Turn 1000 clicks into 1 with python-jamf and jctl (YouTube)](https://www.youtube.com/watch?v=2YLriNwyP3s)
+ - [JNUC 2021 - Turn 1000 clicks into 1 with python-jamf and jctl (YouTube)](https://www.youtube.com/watch?v=2YLriNwyP3s)
 
 This session will introduce `python-jamf` and `jctl`, give some usage examples, show how it works internally, and show how easy it is to add your own functionality to perform and automate any repetitive and complex task you want. 
 
-[Universtify MacAdmins Blog](https://apple.lib.utah.edu)
+ - [Universtify MacAdmins Blog](https://apple.lib.utah.edu)
 
 The University of Utah, MacAdmins Meeting is held monthly virtually on the 3rd Wednesday of each month at 11 AM Mountain Time. Presentations cover Apple technology and integration in a heterogeneous university enterprise environment.
 
-[Universtify MacAdmins Arvhived Presentations](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
+ - [Universtify MacAdmins Arvhived Presentations](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
