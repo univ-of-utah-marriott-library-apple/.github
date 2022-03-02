@@ -1,3 +1,4 @@
+
 ## Latest Links & Resources
 
 [JNUC 2021 - Turn 1000 clicks into 1 with python-jamf and jctl (YouTube)](https://www.youtube.com/watch?v=2YLriNwyP3s)
