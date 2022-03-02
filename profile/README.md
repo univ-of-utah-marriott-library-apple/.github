@@ -1,4 +1,4 @@
-## University of Utah - Marriott Library - Apple Infrastruccture
+## University of Utah - Marriott Library
 
 <img src="marriott_lib_building.png">
 
