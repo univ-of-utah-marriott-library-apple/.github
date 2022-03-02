@@ -2,7 +2,7 @@
 
 ### Notable Repositories
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uurazzle&hide=contribs,prs)](https://github.com/univ-of-utah-marriott-library-apple/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=python-jamf)](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)
 
 ### Links & Resources
 
