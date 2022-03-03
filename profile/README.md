@@ -5,18 +5,17 @@
 #### Notable Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=python-jamf&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=jctl&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/jctl)
 
 #### Links & Resources
 
-[JNUC 2021 - Turn 1000 clicks into 1 with python-jamf and jctl (YouTube)](https://www.youtube.com/watch?v=2YLriNwyP3s)
+[JNUC 2021 - Turn 1000 clicks into 1 with python-jamf and jctl (YouTube)](https://youtu.be/2YLriNwyP3s)
 
-This session will introduce `python-jamf` and `jctl`, give some usage examples, show how it works internally, and show how easy it is to add your own functionality to perform and automate any repetitive and complex task you want. 
+This session will introduce `python-jamf` and `jctl`, give some usage examples, show how it works internally, and show how easy it is to add your own functionality to perform and automate any repetitive and complex task you want.
 
 [MacAdmins Slack Channel](https://macadmins.slack.com/archives/C01C8KVV2UD)
 
-Join the MacAdmins slack team `#jctl` channel for help & support with `python-jamf` and `jctl.
+If you have additional questions, or need more help getting started, post a question on the MacAdmin's Slack #jctl channel.
 
 [Universtify MacAdmins Blog](https://apple.lib.utah.edu)
 
