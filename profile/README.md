@@ -1,5 +1,4 @@
 # University of Utah - Marriott Library - Apple Infrastructure
----
 <img src="marriott_lib_building.png">
 
 ### Notable Repositories
@@ -17,7 +16,7 @@
 ##### [MacAdmins Slack Channel](https://macadmins.slack.com/archives/C01C8KVV2UD)
 > If you have additional questions, or need more help getting started, post a question on the MacAdmin's Slack #jctl channel.
 
-##### [University of Utah -  MacAdmins Blog](https://apple.lib.utah.edu)
+##### :technologist: [University of Utah -  MacAdmins Blog](https://apple.lib.utah.edu)
 > The University of Utah, MacAdmins Meeting is held monthly virtually on the 3rd Wednesday of each month at 11 AM Mountain Time. Presentations cover Apple technology and integration in a heterogeneous university enterprise environment.
 
 ##### [University of Utah - MacAdmins Archived Presentations](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
