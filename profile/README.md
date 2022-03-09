@@ -19,7 +19,7 @@
 ##### :technologist: [University of Utah -  MacAdmins Blog](https://apple.lib.utah.edu)
 > The University of Utah, MacAdmins Meeting is held monthly virtually on the 3rd Wednesday of each month at 11 AM Mountain Time. Presentations cover Apple technology and integration in a heterogeneous university enterprise environment.
 
-##### [University of Utah - MacAdmins Archived Presentations](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
+##### :technologist: [University of Utah - MacAdmins Archived Presentations](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
 
 > Archived University of Utah, MacAdmins presentation and slides.
 
