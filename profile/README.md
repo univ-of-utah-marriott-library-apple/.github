@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=python-jamf&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=jctl&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/jctl)
 
-<image src="https://github.com/univ-of-utah-marriott-library-apple/jctl/wiki/images/patch_dev_history.png" width="50%">
+<img align="left" width="75%"  src="https://github.com/univ-of-utah-marriott-library-apple/jctl/wiki/images/patch_dev_history.png">
 
 ### Links & Resources
 
