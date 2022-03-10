@@ -19,4 +19,4 @@
 
 ##### :vhs: [University of Utah - MacAdmins Archived Presentations](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest)
 
-> Archived University of Utah, MacAdmins presentation and slides.
+> To view and accessed 20+ years of archived University of Utah, [MacAdmins presentations and slides](https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest).
