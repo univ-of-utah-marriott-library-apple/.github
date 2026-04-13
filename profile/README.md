@@ -3,8 +3,11 @@
 
 ### Notable Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=python-jamf&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=univ-of-utah-marriott-library-apple&repo=jctl&show_icons=true&theme=swift)](https://github.com/univ-of-utah-marriott-library-apple/jctl)
+- ⚙️ **[python-jamf](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)**  
+  _Automation utilities for Jamf using Python_
+
+- 💻 **[Title-Editor---API-Automation-Associated-Scripts](https://github.com/univ-of-utah-marriott-library-apple/Title-Editor---API-Automation-Associated-Scripts)**  
+  _Scripts for API-driven title editing and automation workflows_
 
 ### Links & Resources
 
