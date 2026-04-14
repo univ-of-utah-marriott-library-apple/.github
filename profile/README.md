@@ -6,7 +6,7 @@
 - ⚙️ **[python-jamf](https://github.com/univ-of-utah-marriott-library-apple/python-jamf)**  
   _Automation utilities for Jamf using Python_
 
-- 💻 **[Title-Editor---API-Automation-Associated-Scripts](https://github.com/univ-of-utah-marriott-library-apple/Title-Editor---API-Automation-Associated-Scripts)**  
+- 💻 **[Title-Editor-API-Automation-Associated-Scripts](https://github.com/univ-of-utah-marriott-library-apple/Title-Editor---API-Automation-Associated-Scripts)**  
   _Scripts for API-driven Jamf Pro Title Editor and automation workflows_
 
 ### Links & Resources
